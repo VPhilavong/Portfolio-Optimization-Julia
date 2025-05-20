@@ -1,3 +1,7 @@
+## 📘 View the Notebook
+
+👉 [Click here to view the full notebook](https://nbviewer.org/github/VPhilavong/Portfolio-Optimization-Julia/blob/main/Project_Portfolio_Optimization.ipynb)
+
 # Portfolio Optimization Project
 
 
